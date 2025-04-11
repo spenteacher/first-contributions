@@ -971,6 +971,7 @@
 - [SaboorNisha](https://github.com/SaboorNisha)
 - [Sanika Nair](https://github.com/sanika-n)
 - [LateGit](https://github.com/LateGit)
+- [Samuel Zaragoza](https://github.com/spenteacher)
 - [Parker Crook](https://github.com/parkercrook)
 - [Vilashkumar Daate](https://github.com/vilash99)
 - [Adhish Goswami](https://github.com/Adhishg704)
